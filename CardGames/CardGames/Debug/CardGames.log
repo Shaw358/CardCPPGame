@@ -1,0 +1,6 @@
+﻿  CardGames.cpp
+C:\Users\User\okeeeeeee\CardGamesRepo\OOP\CardGames\CardGames\CardGames.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\okeeeeeee\CardGamesRepo\OOP\CardGames\CardGames\CardGames.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\okeeeeeee\CardGamesRepo\OOP\CardGames\CardGames\CardGames.cpp(24,7): warning C4101: 'choiceBool': unreferenced local variable
+C:\Users\User\okeeeeeee\CardGamesRepo\OOP\CardGames\CardGames\CardGames.cpp(21,10): warning C4101: 'player': unreferenced local variable
+  CardGames.vcxproj -> C:\Users\User\okeeeeeee\CardGamesRepo\OOP\CardGames\Debug\CardGames.exe
